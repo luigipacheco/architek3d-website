@@ -1,0 +1,12 @@
+/* This license applies to the theme not the content(posts, pictures, etc). You can contact me for licensing the
+ * content, The neobrutal trademark, name, pictures and posts are owned and Copyright (c) 2021 Luis Pacheco. 
+ * All rights reserved.
+ * ----------------------------------------------------------------------------
+ * "THE CRYPTO BEER-WARE LICENSE" (custom revision):
+ * <luigipacheco.com> made this jekyll theme.  As long as you retain this notice you
+ * can do whatever you want with this stuff. If  you think
+ * this stuff is worth it, you can buy me a beer in return, 
+ * you can send an ether beer's worth to:
+ * ether: 0x5D2d11406e2cd45bFcD44cb2051708B51A00923F
+ * ----------------------------------------------------------------------------
+ */
