@@ -50,13 +50,13 @@ plugins:
 #   - vendor/ruby/
 
 email:              neobrutal.studio@gmail.com
-twitter:            luigipaal
+#twitter:            luigipaal
 #facebook:           luigipacheco
 github-url:         luigipacheco
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           luis-arturo-pacheco-16970a71
 #xing:              username
-instagram:          luigi_pacheco
+instagram:          architekmx
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -64,7 +64,7 @@ instagram:          luigi_pacheco
 #foursquare:        username
 #steam:              luigi_pacheco
 #dribbble:          username
-youtube:           luigipach
+#youtube:           luigipach
 #youtube-channel:   luigipach
 #soundcloud:        username
 #weibo:             username
@@ -73,4 +73,4 @@ youtube:           luigipach
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-portfolio:         www.neobrutal.com
+#portfolio:         www.neobrutal.com
