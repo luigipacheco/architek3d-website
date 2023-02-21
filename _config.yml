@@ -20,7 +20,7 @@
 
 title: Architek3D
 description: >- # this means to ignore newlines until "baseurl:"
-  Digital manufacturing and computational design
+  Somos una empresa líder en la impresión 3D para la construcción en México, Utilizamos robots de impresión 3D de última generación para crear estructuras aún más complejas y detalladas con una precisión sin precedentes. Nuestros robots están diseñados para trabajar en conjunto con nuestro equipo de expertos en construcción y diseño, lo que nos permite crear proyectos innovadores y personalizados que se adaptan a las necesidades específicas de nuestros clientes. La impresión robótica 3D nos permite imprimir grandes estructuras en un tiempo récord y con una calidad excepcional, lo que reduce significativamente los costos y el tiempo de construcción. Ya sea que esté buscando construir una casa, una estructura comercial o cualquier otro tipo de edificio, nuestro equipo de profesionales puede ayudarlo a llevar su proyecto al siguiente nivel. Contáctenos hoy mismo para conocer más sobre nuestros servicios de impresión robótica 3D y cómo podemos ayudarlo a hacer realidad su visión.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://architek3d.com" # the base hostname & protocol for your site, e.g. http://example.com
 
